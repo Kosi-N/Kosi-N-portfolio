@@ -16,7 +16,9 @@ Founded in 2006, H+Sport operates online platforms where customers can purchase 
 
 
 ### Data sources
-THe dataset consisted of five tables including information about user demodraphics, products
+The dataset consisted of five tables including information about the  products,customer demographics, orders, order items and saleperson information.
+<img width="915" alt="dbg" src="https://github.com/user-attachments/assets/29dc6d78-5bf7-4bc1-b3c3-eb6c65f566b5">
+
 https://hplussport.com
 Sales Data: The primary dataset used for this analysisi is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 Customer Data
