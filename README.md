@@ -1,6 +1,6 @@
-# E-commerce: H+ Sport Sales Insights
+# E-commerce: H+ Sport Sales insights
 
-### The goal of this project is to investigate the sales performance at Hplussport in order to create recommendations on budget allocation across future marketing campaigns.
+### The goal of this project is to investigate the sales performance at H+sport in order to create recommendations on budget allocation across future marketing campaigns.
 
 ## Table of contents
 - [Project overview](#project-overview)
@@ -12,8 +12,9 @@
 - [Recommendations](#recommendations)
 
 ### Project overview
-Founded in 2006, H+Sport operates online platforms where customers can purchase a variety of sports drinks designed to help athletes stay hydrated by replenishing fluids,electrolytes and energy lost during physical activity.
+H+Sport  was founded in 2006  and operates an online store that sells nutritional products such as supplements, energy bars and rehydration solutions , along with active wear to meet the needs of active lifestyle consumers. You can navigate  to the H+ sport website by clicking [here](https://hplussport.com)
 
+The board of directors wants to gain a better understanding of wholesale revenue by product line, and how this varies month-to-month and across warehouses
 
 ### Data sources
 The dataset consisted of five tables including information about the  products,customer demographics, orders, order items and saleperson information.
