@@ -1,4 +1,6 @@
-# E-commerce Sales Analysis
+# E-commerce: H+ Sport Sales Insights
+
+### The goal of this project is to investigate the sales performance at Hplussport in order to create recommendations on budget allocation across future marketing campaigns.
 
 ## Table of contents
 - [Project overview](#project-overview)
@@ -10,10 +12,14 @@
 - [Recommendations](#recommendations)
 
 ### Project overview
-This data analysis project aims to provide insights into the sales performance of an e commerce company over the past year.By analyzing various aspects of the sales data we seek to identify trends, make data driven recommendations and gain a deeper understanding of the company's performance.
+Founded in 2006, H+Sport operates online platforms where customers can purchase a variety of sports drinks designed to help athletes stay hydrated by replenishing fluids,electrolytes and energy lost during physical activity.
+
 
 ### Data sources
+THe dataset consisted of five tables including information about user demodraphics, products
+https://hplussport.com
 Sales Data: The primary dataset used for this analysisi is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+Customer Data
 
 ### Tools
 - Excel- Data Cleaning
