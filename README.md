@@ -1,6 +1,6 @@
 # E-commerce: H+ Sport Sales insights
 
-### The goal of this project is to investigate the sales performance at H+sport in order to create recommendations on budget allocation for future marketing campaigns.
+### The goal of this project is to investigate the sales performance at H+sport company to uncover key inghts and provide  strategic recommendations for future marketing campaigns.
 
 ## Table of contents
 - [Project overview](#project-overview)
@@ -8,13 +8,13 @@
 - [Tools](#tools)
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data analysis](#data-analysis)
+- [Findings](#findings)
 - [Recommendations](#recommendations)
 
 ### Project overview
 H+Sport  was founded in 2006  and operates an online store that sells nutritional products such as supplements, energy bars and rehydration solutions , along with active wear to meet the needs of active lifestyle consumers. You can navigate  to the H+ sport website by clicking [here](https://hplussport.com)
 
-The board of directors wants to gain a better understanding of the H+ Sports mineral water 
+I have been hired to  help strategize their marketing efforts for the year. The company will like me to focus  on several key ares including product size popularity, top-selling products, sales seasonality, geographic sales distribution, product pairing trends, and customer loyalty.
 
 ### Data sources
 The dataset consisted of five tables including information about the  products,customer demographics, orders, order items and saleperson information.
@@ -27,7 +27,6 @@ Customer Data:  The primary dataset used for this analysis is the "sales_data.cs
 
 ### Tools
 - Excel- Data Cleaning
-  - [Download here](https://microsoft.com)
 - SQL Server- Data analysis
 - Tableau- Creating reports
 
@@ -36,6 +35,7 @@ In the initial data preparation phase , I performed the following tasks:
 1. Data loading and inspection
 2. Handling missing values
 3. Data cleaning and formatting
+An example of one of my  codes
    
 ```sql
 -- Find null values in Customer table
@@ -164,16 +164,16 @@ LEFT OUTER JOIN Repeat_Customers
 ON Orders.CustomerID = Repeat_Customers.Repeat_Cus;
 ```
 
-### Results/findings
+### Findings
 The dashboard can be found in Tabeau public [here](https://public.tableau.com/views/Hplussportssalesdashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). This dashboard enables users to visualize state-specific preferences,geographic sales distribution, sales seasonality,sales over time and top selling products by flavour and size.
 
 ![Dashboard 1 (1)](https://github.com/user-attachments/assets/ad0ade06-00be-4e77-9ae5-896aab9136ce)
 
-#### The insights summary
+#### Insights summary
 
 1.  The total quantity sold for 20-ounce bottles is 6,346, while the total for 32-ounce bottles is 6,206. The close figures suggest that both sizes are equally popular, indicating that customers may have no strong preference between the two sizes or that the pricing strategy is effectively balanced.
 
-2.The top three best-selling flavors overall are **Orange**, **Raspberry**, and **Lemon-Lime**.
+2. The top three best-selling flavors overall are **Orange**, **Raspberry**, and **Lemon-Lime**.
      - The best-selling flavor for 20-ounce bottles is **Orange**.
      - The best-selling flavor for 32-ounce bottles is **Raspberry**.
 
