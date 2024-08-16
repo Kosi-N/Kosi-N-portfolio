@@ -189,10 +189,15 @@ The dashboard can be found in Tabeau public [here](https://public.tableau.com/vi
 Based on the analysis,i recommend the following actions:
 
 - Since both 20-ounce and 32-ounce bottles sell at similar rates, the company should continue marketing both sizes to cater to a broad customer base.
+  
 - Focus marketing efforts on the most popular products, such as the top-selling flavors, and consider using Orange flavour as the flagship product to drive brand recognition and sales.
--Schedule new product launches during peak sales periods, particularly in the spring, to maximize visibility and sales potential.
--Develop localized advertising campaigns in high-performing states like Texas, New York, Florida, and California. Tailor these campaigns to highlight the most popular products in each region and attract new customers.
--Create bundle deals featuring frequently paired products, such as Orange and Raspberry flavors, to encourage cross-selling and increase overall sales.
+  
+- Schedule new product launches during peak sales periods, particularly in the spring, to maximize visibility and sales potential.
+
+- Develop localized advertising campaigns in high-performing states like Texas, New York, Florida, and California. Tailor these campaigns to highlight the most popular products in each region and attract new customers.
+
+- Create bundle deals featuring frequently paired products, such as Orange and Raspberry flavors, to encourage cross-selling and increase overall sales.
+
 - The low customer retention rate should be investigated to identify potential issues, such as product quality, customer service, or ineffective marketing efforts. Enhancing customer retention strategies, such as launching an email marketing campaign, can help keep users engaged with the brand after their initial purchase.
 
 
