@@ -186,7 +186,7 @@ The dashboard can be found in Tabeau public [here](https://public.tableau.com/vi
 6.  The customer retention rate is low, indicating that many customers are not making repeat purchases. This highlights an area for improvement in customer engagement and retention strategies. 
 
 ### Recommendations
-Based on the analysis,i recommend the following actions:
+Based on the analysis,I recommend the following actions:
 
 - Since both 20-ounce and 32-ounce bottles sell at similar rates, the company should continue marketing both sizes to cater to a broad customer base.
   
