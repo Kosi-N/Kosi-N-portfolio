@@ -1,6 +1,6 @@
 # E-commerce: H+ Sport Sales insights 2015-2016
 
-### The goal of this project is to investigate the sales performance at H+sport company to uncover key inghts and provide  strategic recommendations for future marketing campaigns.
+### The goal of this project is to investigate the sales performance at H+sport company to uncover key insghts and provide  strategic recommendations for future marketing campaigns.
 
 ## Table of contents
 - [Project overview](#project-overview)
